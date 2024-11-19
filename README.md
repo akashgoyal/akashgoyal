@@ -6,7 +6,7 @@ Glad to see you here! I'm Akash Goyal, a **Software Engineer** with a strong pas
 
 ### Let's connect!
 
-Explore my thoughts at [akgml.github.io](https://akgml.github.io), and let's connect on 𝕏 [(Twitter)](https://twitter.com/akashgoyal95) and [LinkedIn](https://www.linkedin.com/in/akashgoyal7/).
+Explore my thoughts at [akashgoyal.github.io/aiml/](https://akashgoyal.github.io/aiml/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/akashgoyal95) and [LinkedIn](https://www.linkedin.com/in/akashgoyal7/).
 
 <!-- [![Twitter](https://img.shields.io/twitter/follow/akashgoyal95?style=social)](https://twitter.com/akashgoyal95)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=akashgoyal&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/akashgoyal7/) [![GitHub](https://img.shields.io/github/followers/akashgoyal.svg?label=Follow%20@akashgoyal&style=social)](https://github.com/akashgoyal/) -->
 
