@@ -1,17 +1,28 @@
 <h1 align='center'>👋 Hello!</h1>
 
-Glad to see you here! I'm Akash Goyal, a **Software Engineer** with a strong passion for **ML** and **open-source**. 
+Glad to see you here! I'm Akash Goyal, a **Computer Science Grad** with a strong passion for **AI/ML** and **open-source**. Particularly in domain of **NLP** & **Computer Vision**. 
 
+---
+### Projects to check for :
 
+**1. AI/ML research & concept understanding :**
+- [akashgoyal.github.io/aiml/](https://akashgoyal.github.io/aiml/)
 
-### Let's connect!
+**2. Model training, Paper Implementations  :**
+- [ML-ipynb](https://github.com/akashgoyal/ML-ipynb)
 
-Explore my thoughts at [akashgoyal.github.io/aiml/](https://akashgoyal.github.io/aiml/), and let's connect on 𝕏 [(Twitter)](https://twitter.com/akashgoyal95) and [LinkedIn](https://www.linkedin.com/in/akashgoyal7/).
+**3. Agents, llamaindex, langchain, vector-db**
+ - [llm-agents](https://github.com/akashgoyal/llm-agents)
+ - [CRM-bot](https://github.com/akashgoyal/CRM_Bot)
+ - [multimodal-chat-with-pdf](https://github.com/akashgoyal/mutimodal-chat-with-pdf)
+
 
 <!-- [![Twitter](https://img.shields.io/twitter/follow/akashgoyal95?style=social)](https://twitter.com/akashgoyal95)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=akashgoyal&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/akashgoyal7/) [![GitHub](https://img.shields.io/github/followers/akashgoyal.svg?label=Follow%20@akashgoyal&style=social)](https://github.com/akashgoyal/) -->
 
-**Let's code, connect, and create awesome things together!**
 
+---
+### Let's code, connect, and create awesome things together!
+Explore my thoughts at [akashgoyal.github.io/aiml/](https://akashgoyal.github.io/aiml/), and connect on 𝕏 [(Twitter)](https://twitter.com/akashgoyal95) and [LinkedIn](https://www.linkedin.com/in/akashgoyal7/).
 
 
 <p align="center">
