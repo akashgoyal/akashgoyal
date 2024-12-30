@@ -9,7 +9,7 @@ Glad to see you here! I'm Akash Goyal, a **Computer Science Grad** with a strong
 
 **2. Model training, Paper Implementations  :** - [ML-ipynb](https://github.com/akashgoyal/ML-ipynb)
 
-**3. Agents, llamaindex, langchain, vector-db :** - [llm-agents](https://github.com/akashgoyal/llm-agents) , [CRM-bot](https://github.com/akashgoyal/CRM_Bot) , [multimodal-chat-with-pdf](https://github.com/akashgoyal/mutimodal-chat-with-pdf)
+**3. Agents, llamaindex, langchain, autogen, vector-db :** - [llm-agents](https://github.com/akashgoyal/llm-agents) , [CRM-bot](https://github.com/akashgoyal/CRM_Bot) , [multimodal-chat-with-pdf](https://github.com/akashgoyal/mutimodal-chat-with-pdf)
 
 
 <!-- [![Twitter](https://img.shields.io/twitter/follow/akashgoyal95?style=social)](https://twitter.com/akashgoyal95)  [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=akashgoyal&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/akashgoyal7/) [![GitHub](https://img.shields.io/github/followers/akashgoyal.svg?label=Follow%20@akashgoyal&style=social)](https://github.com/akashgoyal/) -->
